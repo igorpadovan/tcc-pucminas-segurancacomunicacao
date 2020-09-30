@@ -33,6 +33,10 @@
     "clientPackageManager": "npm",
     "blueprints": [],
     "skipClient": true,
-    "skipUserManagement": true
+    "skipUserManagement": true,
+    "lastLiquibaseTimestamp": 1601430309000,
+    "herokuAppName": "tcc-poc-pucminas-segmon",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "11"
   }
 }
